@@ -11,7 +11,6 @@ Table of contents
 
 * [Introduction](#introduction)
 * [Installation](#installation)
-* [Usage](#usage)
 * [Results](#results)
 
 
@@ -29,8 +28,9 @@ Note: Running on CPU will takes a lot of time.
 
 # Results
 
-Below are the initial results with respect to the true numbers on trying on different domain. 
-As expected the `Sketch` domain didn't performed well as compared with other domains. 
+Below are the initial results for the true and prediction label counts on trying on different domains. 
+As expected the `Sketch` domain due to its complexity in nature it didn't performed well as compared with other 
+domains.  
 
 <details>
 <summary>Art Painting</summary>
